@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Anh biết anh đệp mà 🥰. Anh cũng yêu em bé lúmmmm 😘😘',
     messDesc: 'hẹn sau dịch mình sẽ đi hẹn hò nhé <33333.Anh đã lên kế hoạch rùiiii',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/kir.tran.3', 
+    messLink: 'https://www.facebook.com/kir.tran.3'. 
 }
